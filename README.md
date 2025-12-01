@@ -12,7 +12,7 @@ Follow these steps to install the script on your FiveM server.
 
 You can download the latest version of the Kanade Cityhall script here:
 
-**[Download Kanade Cityhall]([https://your-download-link.com](https://github.com/kanadescripts/-ESX---Kanade-Cityhall)**
+**[Download Kanade Cityhall](https://github.com/kanadescripts/-ESX---Kanade-Cityhall)**
 
 
 ---

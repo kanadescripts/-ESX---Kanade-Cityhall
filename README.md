@@ -29,7 +29,7 @@ You can download the latest version of the Kanade Cityhall script here:
 Make sure the folder name is exactly:
 
 ```
-kanade_cityhall
+kanade-cityhall
 ```
 
 ### **4. Add to server.cfg**

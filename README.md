@@ -37,7 +37,7 @@ kanade-cityhall
 Add the following line to your `server.cfg`:
 
 ```
-ensure kanade_cityhall
+ensure kanade-cityhall
 ```
 
 ---
